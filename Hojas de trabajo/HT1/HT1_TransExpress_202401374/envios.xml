@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<envios fecha="2025-01-15">
+  
+  <envio id="A001">
+    <cliente>
+      <nombre>María López</nombre>
+      <telefono>55441234</telefono>
+    </cliente>
+    <paquete peso="2.5" unidad="kg">
+      <description>Documentos legales</description>
+    </paquete>
+    <estado>EN RUTA</estado>
+  </envio>
+
+  <envio id="A002">
+    <cliente>
+      <nombre>Juan Pérez</nombre>
+      <telefono>55887766</telefono>
+    </cliente>
+    <paquete peso="1.2" unidad="kg">
+      <description>Accesorios electrónicos</description>
+    </paquete>
+    <estado>ENTREGADO</estado>
+  </envio>
+
+  <envio id="A003">
+    <cliente>
+      <nombre>Ana Gómez</nombre>
+      <telefono>55112233</telefono>
+    </cliente>
+    <paquete peso="4.0" unidad="kg">
+      <description>Ropa y zapatos</description>
+    </paquete>
+    <estado>PENDIENTE</estado>
+  </envio>
+
+</envios>
